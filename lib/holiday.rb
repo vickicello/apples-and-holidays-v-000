@@ -4,7 +4,7 @@ def second_supply_for_fourth_of_july(holiday_hash)
   holiday_supplies[:summer][:fourth_of_july][1]
 end
 
-  # given that holiday_hash looks like this:
+  # holiday_hash
   # {
   #   :winter => {
   #     :christmas => ["Lights", "Wreath"],
@@ -64,10 +64,3 @@ def all_holidays_with_bbq(holiday_hash)
   # include the string "BBQ"
 
 end
-
-
-
-
-
-
-
